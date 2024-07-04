@@ -11,7 +11,7 @@ The project is organized into several directories and files as follows:
 
 ### Directories and Files
 
-- **data/**: Contains the dataset file (`diabetes.csv`).
+- **data/**: Contains the dataset file (`diabetes_prediction_dataset.csv`).
 - **models/**: Contains the trained models and the scaler object.
 - **scripts/**: Contains the scripts for training, evaluating, and making predictions with the models.
 - **notebooks/**: Contains Jupyter Notebooks for data analysis and model training.
